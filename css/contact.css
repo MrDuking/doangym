@@ -76,10 +76,10 @@ html{
     cursor:pointer;
     width:24%;
     border:none;
-    background:#991D57;
-    background-image:linear-gradient(bottom, #8C1C50 0%, #991D57 52%);
-    background-image:-moz-linear-gradient(bottom, #8C1C50 0%, #991D57 52%);
-    background-image:-webkit-linear-gradient(bottom, #8C1C50 0%, #991D57 52%);
+    background:##f8bc1a;
+    background-image:linear-gradient(bottom, #f8bc1a 0%, #f8bc1a 52%);
+    background-image:-moz-linear-gradient(bottom, #f8bc1a 0%, #f8bc1a 52%);
+    background-image:-webkit-linear-gradient(bottom, #f8bc1a 0%, #f8bc1a 52%);
     color:#FFF;
     margin:0 0 5px;
     padding:10px;
